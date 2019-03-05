@@ -1,6 +1,9 @@
 Get Programming with Go
 =======================
 
+### Lessons
+
+* Lesson 2: A glorified calculator
 
 ### References
 
